@@ -1,1 +1,6 @@
 ~/go/bin/cobra-cli init
+
+go install
+
+iptracker-cli
+
